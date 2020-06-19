@@ -3,7 +3,7 @@ import PySimpleGUI as sg
 import wikipedia
 import pyttsx3
 
-app_id= 'EXE9PQ-JEWELE452K'
+app_id= #enter your API key here
 client = wolframalpha.Client(app_id)
 
 sg.theme('LightTeal')	                    # Add a touch of color
